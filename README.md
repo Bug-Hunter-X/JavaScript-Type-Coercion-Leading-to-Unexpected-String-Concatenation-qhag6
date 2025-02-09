@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in JavaScript related to type coercion. The `foo` function intends to add two numbers but unexpectedly performs string concatenation due to the implicit type conversion. The solution showcases how to explicitly handle types to prevent this behavior.
